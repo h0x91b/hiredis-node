@@ -2,8 +2,8 @@
   "name": "hiredis",
   "description": "Wrapper for reply processing code in hiredis",
   "version": "0.1.15",
-  "homepage": "http://github.com/pietern/hiredis-node",
-  "author": "Pieter Noordhuis <pcnoordhuis@gmail.com>",
+  "homepage": "http://github.com/h0x91b/hiredis-node",
+  "author": ["Arseniy Pavlenko <h0x91b@gmail.com>", "Pieter Noordhuis <pcnoordhuis@gmail.com>"],
   "main": "hiredis",
   "scripts": {
     "test": "node test/reader.js"
